@@ -1,7 +1,7 @@
 # Gnoix（极智一体化全能终端）
 
 <p align="center">
-  <img src="Gnoix/AppIcon-1024.png" width="128" height="128" alt="Gnoix Logo" style="border-radius: 26px;">
+  <img src="/AppIcon-1024.png" width="128" height="128" alt="Gnoix Logo" style="border-radius: 26px;">
 </p>
 
 <p align="center">
