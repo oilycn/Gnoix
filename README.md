@@ -179,6 +179,8 @@
 1. 影视源：可直接导入本项目源 `https://ghproxy.net/https://raw.githubusercontent.com/oilycn/Gnoix/refs/heads/main/gnoix.json` 也可自行参考写法自定义源
 2. 小说源：兼容安卓阅读源，同时可以使用服务器模式，格式为：https://阅读3服务器地址#账号#密码
 
+> Telegram链接：https://t.me/+M0siz5K6Qww1MmFl
+
 ## ❓ 常见问题深度解答（FAQ）
 
 #### Q1：通过注入描述文件续签，到期后软件到底会不会闪退？
