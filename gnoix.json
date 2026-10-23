@@ -51,6 +51,14 @@
       "filterable": 1
     },
     {
+      "key": "juheduanju_js",
+      "name": "聚合短剧",
+      "type": "js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/oilycn/Gnoix/refs/heads/main/rule/聚合短剧_rule.js",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
       "key": "changzhang_js",
       "name": "厂长影视",
       "type": "js",
