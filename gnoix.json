@@ -1,12 +1,12 @@
 {
-  "version": 20261006,
-  "name": "精选稳定源",
+  "version": 20261102,
+  "name": "精选稳定源 (合规纯净版)",
   "sites": [
     {
       "key": "jianpian",
       "name": "荐片影视",
       "type": "js",
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/oilycn/Gnoix/refs/heads/main/rule/荐片影视_rule.js",
+      "api": "https://gnoix.277722.xyz/rule/jianpian_rule.js",
       "searchable": 1,
       "filterable": 1
     },
@@ -14,7 +14,7 @@
       "key": "qiyou",
       "name": "奇优影视",
       "type": "js",
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/oilycn/Gnoix/refs/heads/main/rule/奇优影视_rule.js",
+      "api": "https://gnoix.277722.xyz/rule/qiyou_rule.js",
       "searchable": 1,
       "filterable": 1
     },
@@ -22,7 +22,7 @@
       "key": "xsl_js",
       "name": "新闪雷",
       "type": "js",
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/oilycn/Gnoix/refs/heads/main/rule/新闪雷_rule.js",
+      "api": "https://gnoix.277722.xyz/rule/xsl_rule.js",
       "searchable": 1,
       "filterable": 1
     },
@@ -30,7 +30,7 @@
       "key": "cbh_js",
       "name": "茶杯狐",
       "type": "js",
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/oilycn/Gnoix/refs/heads/main/rule/茶杯狐_rule.js",
+      "api": "https://gnoix.277722.xyz/rule/cbh_rule.js",
       "searchable": 1,
       "filterable": 1
     },
@@ -38,7 +38,7 @@
       "key": "jisuzhuiju_js",
       "name": "极速追剧",
       "type": "js",
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/oilycn/Gnoix/refs/heads/main/rule/极速追剧_rule.js",
+      "api": "https://gnoix.277722.xyz/rule/jisuzhuiju_rule.js",
       "searchable": 1,
       "filterable": 1
     },
@@ -46,7 +46,7 @@
       "key": "jinpai_js",
       "name": "金牌影视",
       "type": "js",
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/oilycn/Gnoix/refs/heads/main/rule/金牌影视_rule.js",
+      "api": "https://gnoix.277722.xyz/rule/jinpai_rule.js",
       "searchable": 1,
       "filterable": 1
     },
@@ -54,7 +54,7 @@
       "key": "juheduanju_js",
       "name": "聚合短剧",
       "type": "js",
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/oilycn/Gnoix/refs/heads/main/rule/聚合短剧_rule.js",
+      "api": "https://gnoix.277722.xyz/rule/juheduanju.js",
       "searchable": 1,
       "filterable": 1
     },
@@ -62,7 +62,15 @@
       "key": "changzhang_js",
       "name": "厂长影视",
       "type": "js",
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/oilycn/Gnoix/refs/heads/main/rule/厂长影视_rule.js",
+      "api": "https://gnoix.277722.xyz/rule/changzhang_rule.js",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "diduan_js",
+      "name": "低端影视",
+      "type": "js",
+      "api": "https://gnoix.277722.xyz/rule/diduan_rule.js",
       "searchable": 1,
       "filterable": 1
     },
@@ -227,28 +235,30 @@
       "filterable": 1
     },
     {
-      "name": "MX动漫",
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/oilycn/Gnoix/refs/heads/main/rule/mxdm.js",
-      "type": "js"
-    },
-    {
-      "name": "MuteFun动漫",
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/oilycn/Gnoix/refs/heads/main/rule/mutefun.js",
-      "type": "js"
-    },
-    {
-      "key": "jable_js",
-      "name": "JABLETV",
-      "type": "js",
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/oilycn/Gnoix/refs/heads/main/rule/jabletv_rule.js",
+      "key": "天翼资源网",
+      "name": "天翼",
+      "type": "api",
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
       "searchable": 1,
       "filterable": 1
+    },
+    {
+      "key": "mxdm_js",
+      "name": "MX动漫",
+      "api": "https://gnoix.277722.xyz/rule/mxdm.js",
+      "type": "js"
+    },
+    {
+      "key": "mutefun_js",
+      "name": "MuteFun动漫",
+      "api": "https://gnoix.277722.xyz/rule/mutefun.js",
+      "type": "js"
     },
     {
       "key": "huangguoweb_js",
       "name": "黄果短剧",
       "type": "js",
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/oilycn/Gnoix/refs/heads/main/rule/黄果短剧_web.js",
+      "api": "https://gnoix.277722.xyz/rule/huangguo_web.js",
       "searchable": 1,
       "filterable": 1
     }
